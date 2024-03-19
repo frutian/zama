@@ -118,7 +118,7 @@ const config: HardhatUserConfig = {
       },
     }),
   },
-  defaultNetwork: "local",
+  defaultNetwork: "zama",
   namedAccounts: {
     deployer: 0,
   },
